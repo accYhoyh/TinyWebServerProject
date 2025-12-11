@@ -1,0 +1,3 @@
+/home/hoyh/vscode/TinyWebServer/build/CMakeFiles/rebuild_cache.dir
+/home/hoyh/vscode/TinyWebServer/build/CMakeFiles/server.dir
+/home/hoyh/vscode/TinyWebServer/build/CMakeFiles/edit_cache.dir

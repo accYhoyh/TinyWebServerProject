@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/hoyh/vscode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/hoyh/vscode/TinyWebServer/lock -I/home/hoyh/vscode/TinyWebServer/CGImysql -I/home/hoyh/vscode/TinyWebServer/threadpool -I/home/hoyh/vscode/TinyWebServer/http -I/home/hoyh/vscode/TinyWebServer/timer -I/home/hoyh/vscode/TinyWebServer/log  -g   -o CMakeFiles/server.dir/main.cpp.o -c /home/hoyh/vscode/TinyWebServer/main.cpp",
+  "file": "/home/hoyh/vscode/TinyWebServer/main.cpp"
+},
+{
+  "directory": "/home/hoyh/vscode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/hoyh/vscode/TinyWebServer/lock -I/home/hoyh/vscode/TinyWebServer/CGImysql -I/home/hoyh/vscode/TinyWebServer/threadpool -I/home/hoyh/vscode/TinyWebServer/http -I/home/hoyh/vscode/TinyWebServer/timer -I/home/hoyh/vscode/TinyWebServer/log  -g   -o CMakeFiles/server.dir/webserver.cpp.o -c /home/hoyh/vscode/TinyWebServer/webserver.cpp",
+  "file": "/home/hoyh/vscode/TinyWebServer/webserver.cpp"
+},
+{
+  "directory": "/home/hoyh/vscode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/hoyh/vscode/TinyWebServer/lock -I/home/hoyh/vscode/TinyWebServer/CGImysql -I/home/hoyh/vscode/TinyWebServer/threadpool -I/home/hoyh/vscode/TinyWebServer/http -I/home/hoyh/vscode/TinyWebServer/timer -I/home/hoyh/vscode/TinyWebServer/log  -g   -o CMakeFiles/server.dir/CGImysql/sql_connection_pool.cpp.o -c /home/hoyh/vscode/TinyWebServer/CGImysql/sql_connection_pool.cpp",
+  "file": "/home/hoyh/vscode/TinyWebServer/CGImysql/sql_connection_pool.cpp"
+},
+{
+  "directory": "/home/hoyh/vscode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/hoyh/vscode/TinyWebServer/lock -I/home/hoyh/vscode/TinyWebServer/CGImysql -I/home/hoyh/vscode/TinyWebServer/threadpool -I/home/hoyh/vscode/TinyWebServer/http -I/home/hoyh/vscode/TinyWebServer/timer -I/home/hoyh/vscode/TinyWebServer/log  -g   -o CMakeFiles/server.dir/http/http_conn.cpp.o -c /home/hoyh/vscode/TinyWebServer/http/http_conn.cpp",
+  "file": "/home/hoyh/vscode/TinyWebServer/http/http_conn.cpp"
+},
+{
+  "directory": "/home/hoyh/vscode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/hoyh/vscode/TinyWebServer/lock -I/home/hoyh/vscode/TinyWebServer/CGImysql -I/home/hoyh/vscode/TinyWebServer/threadpool -I/home/hoyh/vscode/TinyWebServer/http -I/home/hoyh/vscode/TinyWebServer/timer -I/home/hoyh/vscode/TinyWebServer/log  -g   -o CMakeFiles/server.dir/timer/lst_timer.cpp.o -c /home/hoyh/vscode/TinyWebServer/timer/lst_timer.cpp",
+  "file": "/home/hoyh/vscode/TinyWebServer/timer/lst_timer.cpp"
+},
+{
+  "directory": "/home/hoyh/vscode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/hoyh/vscode/TinyWebServer/lock -I/home/hoyh/vscode/TinyWebServer/CGImysql -I/home/hoyh/vscode/TinyWebServer/threadpool -I/home/hoyh/vscode/TinyWebServer/http -I/home/hoyh/vscode/TinyWebServer/timer -I/home/hoyh/vscode/TinyWebServer/log  -g   -o CMakeFiles/server.dir/log/log.cpp.o -c /home/hoyh/vscode/TinyWebServer/log/log.cpp",
+  "file": "/home/hoyh/vscode/TinyWebServer/log/log.cpp"
+}
+]
